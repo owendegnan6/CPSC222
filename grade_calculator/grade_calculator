@@ -1,0 +1,18 @@
+<php>
+
+require_once "student.php"
+require_once "letter_grade.php"
+
+$student = array(
+new Student ("Owen", "Degnan", 1011, array(
+CPSC 222 "98"
+Math110 "87"
+Hist 105 "92"
+)),
+new studeny("Jack", "Julin",1098, array(
+CPSC 222 "98"
+Math 110 "94"
+Hist 105 "99"
+)),
+
+
